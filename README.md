@@ -41,7 +41,7 @@ Hands-on experience with C programming
 Improved problem-solving skills
 
 Team Members
-S. Sai charan - AP24110010065
+S. Sai charan - AP24110010065,
 B. N. V. S. Santosh - AP24110010066,
 D. Charan STS Raj - AP24110010068,
 N. Sai Titiksha - Ap24110011795,
