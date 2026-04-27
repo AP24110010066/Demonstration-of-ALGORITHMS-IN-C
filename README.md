@@ -42,10 +42,10 @@ Improved problem-solving skills
 
 Team Members
 S. Sai charan - AP24110010065
-B. N. V. S. Santosh - AP24110010066
-D. Charan STS Raj - AP24110010068
-N. Sai Titiksha - Ap24110011795
-Y. Bhavya Hasini - AP24110011789
+B. N. V. S. Santosh - AP24110010066,
+D. Charan STS Raj - AP24110010068,
+N. Sai Titiksha - Ap24110011795,
+Y. Bhavya Hasini - AP24110011789.
 
 Future Improvements
 Add more advanced algorithms (e.g., Bellman-Ford, Floyd-Warshall)
@@ -53,7 +53,7 @@ Implement graphical visualization
 Optimize performance for large inputs
 
 References
-https://www.geeksforgeeks.org/
-https://www.programiz.com/
-https://www.tutorialspoint.com/
-https://www.w3schools.com/
+https://www.geeksforgeeks.org/,
+https://www.programiz.com/,
+https://www.tutorialspoint.com/,
+https://www.w3schools.com/.
